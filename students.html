@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" type="text/css" href="css/bootstrap.css">
+    <title>Document</title>
+    <style>
+        .row div {
+            background: gray;
+            color: white;
+            text-align: center;
+            height: 50px;
+            line-height: 50px;
+            font-size: 20px;
+        }
+        
+        .main_left {
+            width: 200px;
+            background: gray;
+            margin-top: 20px;
+        }
+        
+        .main_left li {
+            list-style: none;
+            height: 50px;
+            line-height: 50px;
+            width: 200px;
+            color: white;
+            border: 1px solid white;
+            text-align: center;
+        }
+        
+        .main_right {
+            width: 800px;
+            height: 250px;
+            border: 1px solid gray;
+            margin-top: 20px;
+            background: red;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-md-2">首页</div>
+            <div class="col-md-2">首页</div>
+            <div class="col-md-2">首页</div>
+            <div class="col-md-2">首页</div>
+            <div class="col-md-2">首页</div>
+            <div class="col-md-2">首页</div>
+        </div>
+        <div class="main">
+            <div class="main_left">
+                <ul>
+                    <li>学生信息</li>
+                    <li>学生信息</li>
+                    <li>学生信息</li>
+                    <li>学生信息</li>
+                    <li>学生信息</li>
+                </ul>
+            </div>
+            <div class="main_right">
+                <ul>
+
+                </ul>
+            </div>
+        </div>
+    </div>
+</body>
+<script type="text/javascript" src="js/jquery-1.11.2.js"></script>
+<script type="text/javascript">
+    $(function() {
+        $.get('http://localhost:8888/data', function(data) {
+            console.log(data)
+                // data.map(function(item) {
+                //     $(`<li>
+                // 				<h2>${item.name}</h2>
+                // 				<p>${item.age}</p>
+                // 				<p>${item.like}</p>
+                // 			</li>
+                // 		`).appendTo('ul');
+                // })
+        })
+    })
+</script>
+
+</html>

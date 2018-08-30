@@ -1,0 +1,888 @@
+{
+	"parentSiSeq": "C18889",
+	"isHasBanner": 1,
+	"CategoryTree": [
+	  {
+		"hasMore": 1,
+		"child": [
+		  {
+			"appName": "卫衣",
+			"icon": "//img06.fn-mart.com/C/web/layout/kk/20161018/201610181450401476773440_kk-1_org_q75.png",
+			"siSeq": "C17543",
+			"type": 3
+		  },
+		  {
+			"appName": "T恤",
+			"icon": "//img04.fn-mart.com/C/web/layout/kk/20161018/201610181451171476773477_kk-1_org_q75.png",
+			"siSeq": "C17385",
+			"type": 3
+		  },
+		  {
+			"appName": "女装衬衫",
+			"icon": "//img06.fn-mart.com/C/web/layout/kk/20161018/201610181451231476773483_kk-1_org_q75.png",
+			"siSeq": "C17386",
+			"type": 3
+		  },
+		  {
+			"appName": "针织衫/开衫",
+			"icon": "//img02.fn-mart.com/C/web/layout/kk/20161018/201610181451011476773461_kk-1_org_q75.png",
+			"siSeq": "C17391",
+			"type": 3
+		  },
+		  {
+			"appName": "时尚外套",
+			"icon": "//img04.fn-mart.com/C/web/layout/kk/20161018/201610181451311476773491_kk-1_org_q75.png",
+			"siSeq": "C17392",
+			"type": 3
+		  },
+		  {
+			"appName": "经典风衣",
+			"icon": "//img06.fn-mart.com/C/web/layout/kk/20161018/201610181451061476773466_kk-1_org_q75.png",
+			"siSeq": "C17544",
+			"type": 3
+		  },
+		  {
+			"appName": "西服",
+			"icon": "//img04.fn-mart.com/C/web/layout/kk/20161018/201610181451111476773471_kk-1_org_q75.png",
+			"siSeq": "C16611",
+			"type": 3
+		  },
+		  {
+			"appName": "中老年女装",
+			"icon": "//img06.fn-mart.com/C/web/layout/kk/20161018/201610181450511476773451_kk-1_org_q75.png",
+			"siSeq": "C15696",
+			"type": 3
+		  },
+		  {
+			"appName": "皮衣、女皮草",
+			"icon": "//img02.fn-mart.com/C/web/layout/kk/20161018/201610181450561476773456_kk-1_org_q75.png",
+			"siSeq": "C16023",
+			"type": 3
+		  },
+		  {
+			"appName": "雪纺衫",
+			"icon": "//img03.fn-mart.com/C/web/layout/kk/20161018/201610181451441476773504_kk-1_org_q75.png",
+			"siSeq": "C17387",
+			"type": 3
+		  },
+		  {
+			"appName": "防晒衣",
+			"icon": "//img06.fn-mart.com/C/web/layout/kk/20161018/201610181451381476773498_kk-1_org_q75.png",
+			"siSeq": "C41532",
+			"type": 3
+		  },
+		  {
+			"appName": "马甲",
+			"icon": "//img03.fn-mart.com/C/web/layout/kk/20161018/201610181451511476773511_kk-1_org_q75.png",
+			"siSeq": "C18465",
+			"type": 3
+		  },
+		  {
+			"appName": "羽绒服",
+			"icon": "//img04.fn-mart.com/C/web/layout/kk/20160115/201601151453341452840814_kk-1_org_q75.jpg",
+			"siSeq": "C15829",
+			"type": 3
+		  },
+		  {
+			"appName": "大衣",
+			"icon": "//img02.fn-mart.com/C/web/layout/kk/20161018/201610181450301476773430_kk-1_org_q75.png",
+			"siSeq": "C17449",
+			"type": 3
+		  },
+		  {
+			"appName": "棉服",
+			"icon": "//img04.fn-mart.com/C/web/layout/kk/20160115/201601151452491452840769_kk-1_org_q75.jpg",
+			"siSeq": "C17394",
+			"type": 3
+		  },
+		  {
+			"appName": "保暖毛衫",
+			"icon": "//img04.fn-mart.com/C/web/layout/kk/20161018/201610181450351476773435_kk-1_org_q75.png",
+			"siSeq": "C16459",
+			"type": 3
+		  },
+		  {
+			"appName": "羊绒衫",
+			"icon": "//img06.fn-mart.com/C/web/layout/kk/20161018/201610181450451476773445_kk-1_org_q75.png",
+			"siSeq": "C17389",
+			"type": 3
+		  }
+		],
+		"appName": "女装上衣",
+		"siSeq": "C18952",
+		"type": 3
+	  },
+	  {
+		"hasMore": 1,
+		"child": [
+		  {
+			"appName": "连衣裙",
+			"icon": "//img03.fn-mart.com/C/web/layout/kk/20161018/201610181459011476773941_kk-1_org_q75.png",
+			"siSeq": "C16787",
+			"type": 3
+		  },
+		  {
+			"appName": "套装",
+			"icon": "//img02.fn-mart.com/C/web/layout/kk/20161018/201610181459111476773951_kk-1_org_q75.png",
+			"siSeq": "C18057",
+			"type": 3
+		  },
+		  {
+			"appName": "半身裙",
+			"icon": "//img04.fn-mart.com/C/web/layout/kk/20161018/201610181459061476773946_kk-1_org_q75.png",
+			"siSeq": "C17397",
+			"type": 3
+		  },
+		  {
+			"appName": "婚纱/礼服",
+			"icon": "//img04.fn-mart.com/C/web/layout/kk/20161018/201610181459151476773955_kk-1_org_q75.png",
+			"siSeq": "C15683",
+			"type": 3
+		  }
+		],
+		"appName": "裙装/套装",
+		"siSeq": "C42515",
+		"type": 3
+	  },
+	  {
+		"hasMore": 1,
+		"child": [
+		  {
+			"appName": "牛仔裤",
+			"icon": "//img04.fn-mart.com/C/web/layout/kk/20161018/201610181459331476773973_kk-1_org_q75.png",
+			"siSeq": "C16821",
+			"type": 3
+		  },
+		  {
+			"appName": "休闲裤",
+			"icon": "//img02.fn-mart.com/C/web/layout/kk/20161018/201610181459381476773978_kk-1_org_q75.png",
+			"siSeq": "C17545",
+			"type": 3
+		  },
+		  {
+			"appName": "打底裤",
+			"icon": "//img04.fn-mart.com/C/web/layout/kk/20161018/201610181459281476773968_kk-1_org_q75.png",
+			"siSeq": "C16174",
+			"type": 3
+		  },
+		  {
+			"appName": "短裤/热裤",
+			"icon": "//img02.fn-mart.com/C/web/layout/kk/20161018/201610181459431476773983_kk-1_org_q75.png",
+			"siSeq": "C17864",
+			"type": 3
+		  },
+		  {
+			"appName": "西裤",
+			"icon": "//img04.fn-mart.com/C/web/layout/kk/20161018/201610181459481476773988_kk-1_org_q75.png",
+			"siSeq": "C17453",
+			"type": 3
+		  }
+		],
+		"appName": "女裤装",
+		"siSeq": "C42487",
+		"type": 3
+	  },
+	  {
+		"hasMore": 1,
+		"child": [
+		  {
+			"appName": "保暖内衣",
+			"icon": "//img04.fn-mart.com/pic/0a48133c909823504e3c/kTH222sTvTtMhdUlX2/59oGmGFGZYWGhi/CsmRslnlp1SAflp7AAAUXX0iG78834_org_q75.jpg",
+			"siSeq": "C17399",
+			"type": 3
+		  },
+		  {
+			"appName": "男内裤",
+			"icon": "//img03.fn-mart.com/C/web/layout/kk/20161018/201610181500001476774000_kk-1_org_q75.png",
+			"siSeq": "C17885",
+			"type": 3
+		  },
+		  {
+			"appName": "女内裤",
+			"icon": "//img06.fn-mart.com/C/web/layout/kk/20161018/201610181501591476774119_kk-1_org_q75.png",
+			"siSeq": "C17546",
+			"type": 3
+		  },
+		  {
+			"appName": "内裤",
+			"icon": "//img06.fn-mart.com/C/web/layout/kk/20161018/201610181502041476774124_kk-1_org_q75.png",
+			"siSeq": "C21697",
+			"type": 3
+		  },
+		  {
+			"appName": "基础打底",
+			"icon": "//img06.fn-mart.com/C/web/layout/kk/20161018/201610181502481476774168_kk-1_org_q75.png",
+			"siSeq": "C42578",
+			"type": 3
+		  },
+		  {
+			"appName": "精品文胸",
+			"icon": "//img06.fn-mart.com/C/web/layout/kk/20161018/201610181502191476774139_kk-1_org_q75.png",
+			"siSeq": "C17598",
+			"type": 3
+		  },
+		  {
+			"appName": "塑身美体內衣",
+			"icon": "//img02.fn-mart.com/C/web/layout/kk/20161018/201610181502261476774146_kk-1_org_q75.png",
+			"siSeq": "C17398",
+			"type": 3
+		  },
+		  {
+			"appName": "女士吊带背心",
+			"icon": "//img03.fn-mart.com/C/web/layout/kk/20161018/201610181502311476774151_kk-1_org_q75.png",
+			"siSeq": "C17452",
+			"type": 3
+		  },
+		  {
+			"appName": "男士短袖背心",
+			"icon": "//img03.fn-mart.com/C/web/layout/kk/20161018/201610181502361476774156_kk-1_org_q75.png",
+			"siSeq": "C18101",
+			"type": 3
+		  },
+		  {
+			"appName": "本命年系列",
+			"icon": "//img03.fn-mart.com/C/web/layout/kk/20161018/201610181502411476774161_kk-1_org_q75.png",
+			"siSeq": "C21757",
+			"type": 3
+		  },
+		  {
+			"appName": "情趣内衣",
+			"icon": "//img02.fn-mart.com/C/web/layout/kk/20161018/201610181502531476774173_kk-1_org_q75.png",
+			"siSeq": "C17776",
+			"type": 3
+		  }
+		],
+		"appName": "内衣内裤",
+		"siSeq": "C18749",
+		"type": 3
+	  },
+	  {
+		"hasMore": 1,
+		"child": [
+		  {
+			"appName": "睡衣/家居服",
+			"icon": "//img02.fn-mart.com/pic/c4cd133c909523558ba5/k2q2nn72FzflKgUM3T/sxeGeavRuipRk9/CsmRsVnlp4CAGIfzAAAZQSkEk8M400_org_q75.jpg",
+			"siSeq": "C18477",
+			"type": 3
+		  },
+		  {
+			"appName": "连裤袜打底裤",
+			"icon": "//img02.fn-mart.com/pic/26f2133c909b25d92600/B2Hzzz5TvnfdBdZdXn/7imyea_aZ9UGPa/CsmRslnlq7aAckt1AAAQW_jOdjk136_org_q75.jpg",
+			"siSeq": "C17759",
+			"type": 3
+		  },
+		  {
+			"appName": "袜子",
+			"icon": "//img02.fn-mart.com/C/web/layout/kk/20161018/201610181503331476774213_kk-1_org_q75.png",
+			"siSeq": "C44919",
+			"type": 3
+		  },
+		  {
+			"appName": "男袜",
+			"icon": "//img03.fn-mart.com/C/web/layout/kk/20161018/201610181503391476774219_kk-1_org_q75.png",
+			"siSeq": "C17699",
+			"type": 3
+		  },
+		  {
+			"appName": "女袜",
+			"icon": "//img04.fn-mart.com/C/web/layout/kk/20161018/201610181503431476774223_kk-1_org_q75.png",
+			"siSeq": "C17454",
+			"type": 3
+		  },
+		  {
+			"appName": "船袜/运动袜",
+			"icon": "//img03.fn-mart.com/C/web/layout/kk/20161018/201610181504001476774240_kk-1_org_q75.png",
+			"siSeq": "C21701",
+			"type": 3
+		  },
+		  {
+			"appName": "女士丝袜",
+			"icon": "//img03.fn-mart.com/C/web/layout/kk/20161018/201610181504071476774247_kk-1_org_q75.png",
+			"siSeq": "C18474",
+			"type": 3
+		  },
+		  {
+			"appName": "秋季家居服",
+			"icon": "//img06.fn-mart.com/C/web/layout/kk/20161018/201610181503161476774196_kk-1_org_q75.png",
+			"siSeq": "C50643",
+			"type": 3
+		  },
+		  {
+			"appName": "鸿运袜",
+			"icon": "//img02.fn-mart.com/C/web/layout/kk/20161018/201610181504111476774251_kk-1_org_q75.png",
+			"siSeq": "C22440",
+			"type": 3
+		  }
+		],
+		"appName": "袜子/睡衣/家居服",
+		"siSeq": "C18996",
+		"type": 3
+	  },
+	  {
+		"hasMore": 1,
+		"child": [
+		  {
+			"appName": "流行饰品",
+			"icon": "//img02.fn-mart.com/C/web/layout/kk/20161018/201610181558111476777491_kk-1_org_q75.png",
+			"siSeq": "C42111",
+			"type": 3
+		  },
+		  {
+			"appName": "银饰",
+			"icon": "//img02.fn-mart.com/C/web/layout/kk/20161018/201610181558161476777496_kk-1_org_q75.png",
+			"siSeq": "C42153",
+			"type": 3
+		  },
+		  {
+			"appName": "黄金饰品",
+			"icon": "//img03.fn-mart.com/C/web/layout/kk/20161018/201610181558211476777501_kk-1_org_q75.png",
+			"siSeq": "C42132",
+			"type": 3
+		  },
+		  {
+			"appName": "金银投资",
+			"icon": "//img06.fn-mart.com/C/web/layout/kk/20161018/201610181558261476777506_kk-1_org_q75.png",
+			"siSeq": "C18637",
+			"type": 3
+		  },
+		  {
+			"appName": "K金饰品",
+			"icon": "//img03.fn-mart.com/C/web/layout/kk/20161018/201610181558301476777510_kk-1_org_q75.png",
+			"siSeq": "C42139",
+			"type": 3
+		  },
+		  {
+			"appName": "铂金饰品",
+			"icon": "//img04.fn-mart.com/C/web/layout/kk/20161018/201610181558351476777515_kk-1_org_q75.png",
+			"siSeq": "C42146",
+			"type": 3
+		  },
+		  {
+			"appName": "珍珠饰品",
+			"icon": "//img02.fn-mart.com/C/web/layout/kk/20161018/201610181558411476777521_kk-1_org_q75.png",
+			"siSeq": "C42174",
+			"type": 3
+		  },
+		  {
+			"appName": "宝石饰品",
+			"icon": "//img03.fn-mart.com/C/web/layout/kk/20161018/201610181558461476777526_kk-1_org_q75.png",
+			"siSeq": "C42160",
+			"type": 3
+		  },
+		  {
+			"appName": "翡翠玉石饰品",
+			"icon": "//img04.fn-mart.com/C/web/layout/kk/20161018/201610181558511476777531_kk-1_org_q75.png",
+			"siSeq": "C42167",
+			"type": 3
+		  },
+		  {
+			"appName": "水晶玛瑙饰品",
+			"icon": "//img04.fn-mart.com/C/web/layout/kk/20161018/201610181558571476777537_kk-1_org_q75.png",
+			"siSeq": "C42181",
+			"type": 3
+		  },
+		  {
+			"appName": "天然木饰",
+			"icon": "//img04.fn-mart.com/C/web/layout/kk/20161018/201610181559051476777545_kk-1_org_q75.png",
+			"siSeq": "C45338",
+			"type": 3
+		  },
+		  {
+			"appName": "其他礼品",
+			"icon": "//img03.fn-mart.com/C/web/layout/kk/20161018/201610181559121476777552_kk-1_org_q75.png",
+			"siSeq": "C18621",
+			"type": 3
+		  },
+		  {
+			"appName": "钥匙扣",
+			"icon": "//img03.fn-mart.com/C/web/layout/kk/20161018/201610181559231476777563_kk-1_org_q75.png",
+			"siSeq": "C18627",
+			"type": 3
+		  },
+		  {
+			"appName": "烟具",
+			"icon": "//img03.fn-mart.com/C/web/layout/kk/20161018/201610181559291476777569_kk-1_org_q75.png",
+			"siSeq": "C18638",
+			"type": 3
+		  },
+		  {
+			"appName": "打火机",
+			"icon": "//img04.fn-mart.com/C/web/layout/kk/20161018/201610181559351476777575_kk-1_org_q75.png",
+			"siSeq": "C18599",
+			"type": 3
+		  }
+		],
+		"appName": "珠宝、首饰、礼品",
+		"siSeq": "C41756",
+		"type": 3
+	  },
+	  {
+		"hasMore": 1,
+		"child": [
+		  {
+			"appName": "手表",
+			"icon": "//img04.fn-mart.com/C/web/layout/kk/20161018/201610181559461476777586_kk-1_org_q75.png",
+			"siSeq": "C18612",
+			"type": 3
+		  },
+		  {
+			"appName": "太阳镜",
+			"icon": "//img03.fn-mart.com/C/web/layout/kk/20161018/201610181559511476777591_kk-1_org_q75.png",
+			"siSeq": "C18629",
+			"type": 3
+		  },
+		  {
+			"appName": "功能眼镜",
+			"icon": "//img06.fn-mart.com/C/web/layout/kk/20161018/201610181559561476777596_kk-1_org_q75.png",
+			"siSeq": "C18631",
+			"type": 3
+		  },
+		  {
+			"appName": "近视眼镜",
+			"icon": "//img03.fn-mart.com/C/web/layout/kk/20161018/201610181600011476777601_kk-1_org_q75.png",
+			"siSeq": "C18614",
+			"type": 3
+		  },
+		  {
+			"appName": "老花镜",
+			"icon": "//img04.fn-mart.com/C/web/layout/kk/20161018/201610181600061476777606_kk-1_org_q75.png",
+			"siSeq": "C18608",
+			"type": 3
+		  },
+		  {
+			"appName": "框架眼镜",
+			"icon": "//img06.fn-mart.com/C/web/layout/kk/20161018/201610181600111476777611_kk-1_org_q75.png",
+			"siSeq": "C18620",
+			"type": 3
+		  }
+		],
+		"appName": "腕表眼镜",
+		"siSeq": "C41749",
+		"type": 3
+	  },
+	  {
+		"hasMore": 1,
+		"child": [
+		  {
+			"appName": "围巾、披肩",
+			"icon": "//img06.fn-mart.com/C/web/layout/kk/20161018/201610181600221476777622_kk-1_org_q75.png",
+			"siSeq": "C22025",
+			"type": 3
+		  },
+		  {
+			"appName": "丝巾",
+			"icon": "//img04.fn-mart.com/C/web/layout/kk/20161018/201610181600271476777627_kk-1_org_q75.png",
+			"siSeq": "C22027",
+			"type": 3
+		  },
+		  {
+			"appName": "皮带、腰带",
+			"icon": "//img03.fn-mart.com/C/web/layout/kk/20161018/201610181600331476777633_kk-1_org_q75.png",
+			"siSeq": "C22024",
+			"type": 3
+		  },
+		  {
+			"appName": "伞、雨衣",
+			"icon": "//img06.fn-mart.com/C/web/layout/kk/20161018/201610181600381476777638_kk-1_org_q75.png",
+			"siSeq": "C22023",
+			"type": 3
+		  },
+		  {
+			"appName": "帽子",
+			"icon": "//img03.fn-mart.com/C/web/layout/kk/20161018/201610181600431476777643_kk-1_org_q75.png",
+			"siSeq": "C22026",
+			"type": 3
+		  },
+		  {
+			"appName": "手套",
+			"icon": "//img06.fn-mart.com/C/web/layout/kk/20161018/201610181600481476777648_kk-1_org_q75.png",
+			"siSeq": "C22028",
+			"type": 3
+		  },
+		  {
+			"appName": "口罩耳罩眼罩",
+			"icon": "//img02.fn-mart.com/C/web/layout/kk/20161018/201610181600541476777654_kk-1_org_q75.png",
+			"siSeq": "C22029",
+			"type": 3
+		  },
+		  {
+			"appName": "护腰、护膝",
+			"icon": "//img06.fn-mart.com/C/web/layout/kk/20161018/201610181601011476777661_kk-1_org_q75.png",
+			"siSeq": "C22032",
+			"type": 3
+		  },
+		  {
+			"appName": "防晒披肩袖套",
+			"icon": "//img04.fn-mart.com/C/web/layout/kk/20161018/201610181601081476777668_kk-1_org_q75.png",
+			"siSeq": "C22030",
+			"type": 3
+		  },
+		  {
+			"appName": "领带领结领夹",
+			"icon": "//img02.fn-mart.com/C/web/layout/kk/20161018/201610181601141476777674_kk-1_org_q75.png",
+			"siSeq": "C22033",
+			"type": 3
+		  },
+		  {
+			"appName": "其他个人配件",
+			"icon": "//img04.fn-mart.com/C/web/layout/kk/20161018/201610181601361476777696_kk-1_org_q75.png",
+			"siSeq": "C22035",
+			"type": 3
+		  }
+		],
+		"appName": "服饰配件",
+		"siSeq": "C22022",
+		"type": 3
+	  },
+	  {
+		"hasMore": 1,
+		"child": [
+		  {
+			"appName": "佳人苑",
+			"icon": "//img06.fn-mart.com/C/web/layout/kk/20170405/201704050935441491356144_kk-1_org_q75.png",
+			"siSeq": "C51665",
+			"type": 3
+		  },
+		  {
+			"appName": "圣迪奥",
+			"icon": "//img02.fn-mart.com/C/web/layout/kk/20170405/201704051008091491358089_kk-1_org_q75.jpg",
+			"siSeq": "C51667",
+			"type": 3
+		  },
+		  {
+			"appName": "古德奈",
+			"icon": "//img03.fn-mart.com/C/web/layout/kk/20170405/201704050936091491356169_kk-1_org_q75.jpg",
+			"siSeq": "C51668",
+			"type": 3
+		  },
+		  {
+			"appName": "几未",
+			"icon": "//img02.fn-mart.com/C/web/layout/kk/20170405/201704050936171491356177_kk-1_org_q75.jpg",
+			"siSeq": "C51669",
+			"type": 3
+		  },
+		  {
+			"appName": "南极人",
+			"icon": "//img06.fn-mart.com/C/web/layout/kk/20170405/201704050936231491356183_kk-1_org_q75.jpg",
+			"siSeq": "C51670",
+			"type": 3
+		  },
+		  {
+			"appName": "波司登",
+			"icon": "//img02.fn-mart.com/C/web/layout/kk/20170405/201704050936321491356192_kk-1_org_q75.jpg",
+			"siSeq": "C51671",
+			"type": 3
+		  },
+		  {
+			"appName": "鸭鸭",
+			"icon": "//img02.fn-mart.com/C/web/layout/kk/20170405/201704050936421491356202_kk-1_org_q75.jpg",
+			"siSeq": "C51672",
+			"type": 3
+		  },
+		  {
+			"appName": "拉夏贝尔",
+			"icon": "//img03.fn-mart.com/pic/be9c133dc8de238deef5/hn8T225nD2LMklVdjn/7ieySGKGta2acy/CsmRslk_jIOAJPGMAAASa0W1tqI695_org_q75.jpg",
+			"siSeq": "C52478",
+			"type": 3
+		  },
+		  {
+			"appName": "梦娜世家",
+			"icon": "//img04.fn-mart.com/C/web/layout/kk/20160304/201603041813521457086432_kk-1_org_q75.jpg",
+			"siSeq": "C45682",
+			"type": 3
+		  },
+		  {
+			"appName": "韩都衣舍",
+			"icon": "//img06.fn-mart.com/C/web/layout/kk/20160304/201603041814211457086461_kk-1_org_q75.jpg",
+			"siSeq": "C45561",
+			"type": 3
+		  },
+		  {
+			"appName": "恒源祥",
+			"icon": "//img04.fn-mart.com/C/web/layout/kk/20160304/201603041814341457086474_kk-1_org_q75.jpg",
+			"siSeq": "C46541",
+			"type": 3
+		  }
+		],
+		"appName": "女装精选品牌",
+		"siSeq": "C44605",
+		"type": 3
+	  },
+	  {
+		"hasMore": 1,
+		"child": [
+		  {
+			"appName": "若昕",
+			"icon": "//img02.fn-mart.com/C/web/layout/kk/20160115/201601151913141452856394_kk-1_org_q75.jpg",
+			"siSeq": "C45939",
+			"type": 3
+		  },
+		  {
+			"appName": "红豆",
+			"icon": "//img06.fn-mart.com/C/web/layout/kk/20160115/201601151913211452856401_kk-1_org_q75.jpg",
+			"siSeq": "C45438",
+			"type": 3
+		  },
+		  {
+			"appName": "顶瓜瓜",
+			"icon": "//img06.fn-mart.com/C/web/layout/kk/20160115/201601151913321452856412_kk-1_org_q75.jpg",
+			"siSeq": "C45437",
+			"type": 3
+		  },
+		  {
+			"appName": "南极人",
+			"icon": "//img03.fn-mart.com/C/web/layout/kk/20160115/201601151913401452856420_kk-1_org_q75.jpg",
+			"siSeq": "C45439",
+			"type": 3
+		  },
+		  {
+			"appName": "北极绒",
+			"icon": "//img02.fn-mart.com/C/web/layout/kk/20160115/201601151913461452856426_kk-1_org_q75.jpg",
+			"siSeq": "C45440",
+			"type": 3
+		  },
+		  {
+			"appName": "花花公子",
+			"icon": "//img03.fn-mart.com/C/web/layout/kk/20160115/201601151913501452856430_kk-1_org_q75.jpg",
+			"siSeq": "C45530",
+			"type": 3
+		  },
+		  {
+			"appName": "兰缪",
+			"icon": "//img02.fn-mart.com/C/web/layout/kk/20160115/201601151914011452856441_kk-1_org_q75.jpg",
+			"siSeq": "C45522",
+			"type": 3
+		  },
+		  {
+			"appName": "健将/爱莎",
+			"icon": "//img06.fn-mart.com/C/web/layout/kk/20160115/201601151914361452856476_kk-1_org_q75.jpg",
+			"siSeq": "C45527",
+			"type": 3
+		  },
+		  {
+			"appName": "浪莎",
+			"icon": "//img04.fn-mart.com/C/web/layout/kk/20160115/201601151915161452856516_kk-1_org_q75.jpg",
+			"siSeq": "C45443",
+			"type": 3
+		  },
+		  {
+			"appName": "宝娜斯",
+			"icon": "//img06.fn-mart.com/C/web/layout/kk/20160420/201604201122491461122569_kk-1_org_q75.jpg",
+			"siSeq": "C49339",
+			"type": 3
+		  }
+		],
+		"appName": "内衣品牌推荐",
+		"siSeq": "C45436",
+		"type": 3
+	  },
+	  {
+		"hasMore": 1,
+		"child": [
+		  {
+			"appName": "苏依库",
+			"icon": "//img02.fn-mart.com/pic/7ee6133e8553194bdd52/Kn8Tnn7zvTCdhduM32/7ioaSGFRgau9oG/CsmRsVnNsZ2AclYZAAArnjE9eXk653_org_q75.jpg",
+			"siSeq": "C53816",
+			"type": 3
+		  },
+		  {
+			"appName": "巴伯瑞",
+			"icon": "//img03.fn-mart.com/pic/cceb133e855a1b2e6d30/h2Hn22szD2CgKMZMXn/sYSReGDagRuijR/CsmRslnNul6AU6PJAAAkf1bouCk250_org_q75.jpg",
+			"siSeq": "C53817",
+			"type": 3
+		  },
+		  {
+			"appName": "瀚瑞",
+			"icon": "//img02.fn-mart.com/pic/5474133e855c194c7966/hzq2221nv2tdhlugX2/7ioaSGFRgau9oG/CsmRslnNsaeAED5mAAAp1e8nDsM464_org_q75.jpg",
+			"siSeq": "C53818",
+			"type": 3
+		  },
+		  {
+			"appName": "莎瑞",
+			"icon": "//img02.fn-mart.com/C/web/layout/kk/20160304/201603041815091457086509_kk-1_org_q75.jpg",
+			"siSeq": "C22017",
+			"type": 3
+		  },
+		  {
+			"appName": "惠妈妈",
+			"icon": "//img04.fn-mart.com/C/web/layout/kk/20160310/201603101610101457597410_kk-1_org_q75.jpg",
+			"siSeq": "C49277",
+			"type": 3
+		  }
+		],
+		"appName": "中老年女装精选品牌",
+		"siSeq": "C21999",
+		"type": 3
+	  },
+	  {
+		"hasMore": 1,
+		"child": [
+		  {
+			"appName": "DW",
+			"icon": "//img02.fn-mart.com/C/web/layout/kk/20170411/201704111132161491881536_kk-1_org_q75.jpg",
+			"siSeq": "C51940",
+			"type": 3
+		  },
+		  {
+			"appName": "周大福",
+			"icon": "//img06.fn-mart.com/C/web/layout/kk/20170411/201704111132261491881546_kk-1_org_q75.jpg",
+			"siSeq": "C51941",
+			"type": 3
+		  },
+		  {
+			"appName": "暴龙",
+			"icon": "//img02.fn-mart.com/C/web/layout/kk/20170411/201704111132351491881555_kk-1_org_q75.jpg",
+			"siSeq": "C51942",
+			"type": 3
+		  },
+		  {
+			"appName": "天梭",
+			"icon": "//img04.fn-mart.com/C/web/layout/kk/20170411/201704111132461491881566_kk-1_org_q75.jpg",
+			"siSeq": "C51944",
+			"type": 3
+		  },
+		  {
+			"appName": "雷朋",
+			"icon": "//img04.fn-mart.com/C/web/layout/kk/20170411/201704111132571491881577_kk-1_org_q75.jpg",
+			"siSeq": "C51945",
+			"type": 3
+		  },
+		  {
+			"appName": "雷诺",
+			"icon": "//img04.fn-mart.com/C/web/layout/kk/20170411/201704111133061491881586_kk-1_org_q75.jpg",
+			"siSeq": "C51946",
+			"type": 3
+		  },
+		  {
+			"appName": "ZIPPO",
+			"icon": "//img06.fn-mart.com/C/web/layout/kk/20170411/201704111133151491881595_kk-1_org_q75.png",
+			"siSeq": "C51947",
+			"type": 3
+		  },
+		  {
+			"appName": "宝时捷",
+			"icon": "//img06.fn-mart.com/C/web/layout/kk/20170411/201704111133271491881607_kk-1_org_q75.jpg",
+			"siSeq": "C51948",
+			"type": 3
+		  },
+		  {
+			"appName": "海伦凯勒",
+			"icon": "//img04.fn-mart.com/C/web/layout/kk/20170411/201704111133351491881615_kk-1_org_q75.jpg",
+			"siSeq": "C51949",
+			"type": 3
+		  },
+		  {
+			"appName": "美度",
+			"icon": "//img06.fn-mart.com/C/web/layout/kk/20170411/201704111133441491881624_kk-1_org_q75.jpg",
+			"siSeq": "C51950",
+			"type": 3
+		  },
+		  {
+			"appName": "金一黄金",
+			"icon": "//img03.fn-mart.com/C/web/layout/kk/20170411/201704111133521491881632_kk-1_org_q75.jpg",
+			"siSeq": "C51951",
+			"type": 3
+		  },
+		  {
+			"appName": "T400",
+			"icon": "//img02.fn-mart.com/C/web/layout/kk/20170411/201704111134001491881640_kk-1_org_q75.png",
+			"siSeq": "C51952",
+			"type": 3
+		  },
+		  {
+			"appName": "蕉下",
+			"icon": "//img03.fn-mart.com/C/web/layout/kk/20170411/201704111134071491881647_kk-1_org_q75.jpg",
+			"siSeq": "C51953",
+			"type": 3
+		  },
+		  {
+			"appName": "斯沃琪",
+			"icon": "//img06.fn-mart.com/C/web/layout/kk/20170411/201704111134171491881657_kk-1_org_q75.jpg",
+			"siSeq": "C51954",
+			"type": 3
+		  },
+		  {
+			"appName": "K°bold",
+			"icon": "//img06.fn-mart.com/C/web/layout/kk/20170411/201704111134241491881664_kk-1_org_q75.jpg",
+			"siSeq": "C51955",
+			"type": 3
+		  },
+		  {
+			"appName": "伊丹黎丝",
+			"icon": "//img06.fn-mart.com/C/web/layout/kk/20170418/201704180940391492479639_kk-1_org_q75.jpg",
+			"siSeq": "C52042",
+			"type": 3
+		  },
+		  {
+			"appName": "傲龙",
+			"icon": "//img06.fn-mart.com/C/web/layout/kk/20160115/201601151550061452844206_kk-1_org_q75.jpg",
+			"siSeq": "C41841",
+			"type": 3
+		  },
+		  {
+			"appName": "老庙",
+			"icon": "//img03.fn-mart.com/C/web/layout/kk/20160115/201601151550551452844255_kk-1_org_q75.jpg",
+			"siSeq": "C41845",
+			"type": 3
+		  },
+		  {
+			"appName": "简丹",
+			"icon": "//img04.fn-mart.com/C/web/layout/kk/20160115/201601151551171452844277_kk-1_org_q75.jpg",
+			"siSeq": "C41847",
+			"type": 3
+		  },
+		  {
+			"appName": "卡西欧",
+			"icon": "//img03.fn-mart.com/C/web/layout/kk/20160118/201601181035291453084529_kk-1_org_q75.jpg",
+			"siSeq": "C41851",
+			"type": 3
+		  },
+		  {
+			"appName": "石头记",
+			"icon": "//img04.fn-mart.com/C/web/layout/kk/20160115/201601151553321452844412_kk-1_org_q75.jpg",
+			"siSeq": "C41852",
+			"type": 3
+		  },
+		  {
+			"appName": "天堂",
+			"icon": "//img02.fn-mart.com/C/web/layout/kk/20160115/201601151553521452844432_kk-1_org_q75.jpg",
+			"siSeq": "C41853",
+			"type": 3
+		  },
+		  {
+			"appName": "法蒂洛",
+			"icon": "//img04.fn-mart.com/C/web/layout/kk/20160115/201601151556381452844598_kk-1_org_q75.jpg",
+			"siSeq": "C41864",
+			"type": 3
+		  },
+		  {
+			"appName": "施华洛世奇",
+			"icon": "//img02.fn-mart.com/C/web/layout/kk/20160115/201601151557401452844660_kk-1_org_q75.jpg",
+			"siSeq": "C42028",
+			"type": 3
+		  },
+		  {
+			"appName": "七匹狼",
+			"icon": "//img03.fn-mart.com/C/web/layout/kk/20160115/201601151558541452844734_kk-1_org_q75.jpg",
+			"siSeq": "C45352",
+			"type": 3
+		  },
+		  {
+			"appName": "西腾",
+			"icon": "//img03.fn-mart.com/C/web/layout/kk/20160115/201601151559331452844773_kk-1_org_q75.jpg",
+			"siSeq": "C45361",
+			"type": 3
+		  }
+		],
+		"appName": "配饰精选品牌",
+		"siSeq": "C41840",
+		"type": 3
+	  }
+	],
+	"versionNo": "683432e2813c7bb0242a0db29023d430",
+	"banner": {
+	  "picUrl": "//img06.fn-mart.com/pic/470a133c9cc81c4288d8/B2q2TT5T_zLMBMZdX2/5YSGeGdROamRBY/CsmRsVovU8CAFkiQAADdCoX6rXk559_org_q75.jpg",
+	  "link": "//sale.feiniu.com/m-50176",
+	  "type": 21
+	}
+  }

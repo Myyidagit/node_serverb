@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+	<style>
+
+		.outer{
+			width: 400px;
+			height: 400px;
+			background: gray;
+			text-align: center;
+			margin: 0 auto;
+
+		}
+	</style>
+</head>
+<body>
+	
+	<div class="outer">
+		<h1>欢迎来到学生管理系统</h1>
+		<section>
+			<label for="username">用户名</label>
+			<input id="username" type="text" name="" placeholder="请输入用户名">
+		</section>
+		<section>
+			<label for="pwd">密码</label>
+			<input id="pwd" type="password" name="" placeholder="请输入密码">
+		</section>
+		<input id="btn" type="button" name="" value="登录">
+	</div>
+</body>
+	<script type="text/javascript" src="js/jquery-1.11.2.js"></script>
+	<script type="text/javascript">
+		$(function(){
+			$("#btn").on("click",function(){
+
+				var username = $("#username").val();
+				var pwd = $("#pwd").val();
+
+				$.ajax({
+					url:"http://localhost:8888/login",
+					type:"POST",
+					data:{
+							username:username,
+							pwd:pwd
+						},
+					dataType:"json",
+					success:function(data){
+						console.log("123");
+						console.log(data);
+							if(data.code == 1){
+							location.href = 'http://localhost:8888/students.html';
+							}else{
+								alert(data.msg);
+							};
+					}
+				});
+			});
+		})
+	</script>
+</html>
